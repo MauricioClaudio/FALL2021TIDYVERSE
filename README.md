@@ -1,275 +1,274 @@
-**Sample**
+# Sample
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Alan N**
+# Alan N
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Alec M**
+# Alec M
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Bianka F**
+# Bianka F
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Bikram B**
+# Bikram B
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Catherine C**
+# Catherine C
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Charles U**
+# Charles U
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Chase P**
+# Chase P
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Chinedu O**
+# Chinedu O
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**ChunJie N**
+# ChunJie N
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Clifton L**
+# Clifton L
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Coffy A**
+# Coffy A
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**David S**
+# David S
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Donald B**
+# Donald B
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Eric L**
+# Eric L
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Erica F**
+# Erica F
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Fayliette L**
+# Fayliette L
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Hazal G**
+# Hazal G
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Javier P**
+# Javier P
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Jaya V**
+# Jaya V
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Jeffrey P**
+# Jeffrey P
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Jhalak D**
+# Jhalak D
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Jiho K**
+# Jiho K
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Joseph F**
+# Joseph F
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Krutika P**
+# Krutika P
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Leticia S**
+# Leticia S
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Mark S**
+# Mark S
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Mathew M**
+# Mathew M
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Mauricio C**
+# Mauricio C
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Minorka H**
+# Minorka H
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Nicholas O**
+# Nicholas O
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Nnaemeka O**
+# Nnaemeka O
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Noah C**
+# Noah C
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Peter P**
+# Peter P
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Preston P**
+# Preston P
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Raymond F**
+# Raymond F
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Santiago T**
+# Santiago T
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Shane H**
+# Shane H
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Shari
- M**
+# Shari M
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Souleymane K**
+# Souleymane K
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Thomas B**
+# Thomas B
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Trang D**
+# Trang D
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Tyler B**
+# Tyler B
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Victoria M**
+# Victoria M
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**Wiktoria G**
+# Wiktoria G
 Initial Description and Link:
 
 Revision/Addition Description and Link:
 
 
-**William A**
+# William A
 Initial Description and Link:
 
 Revision/Addition Description and Link:
