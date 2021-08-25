@@ -1,5 +1,7 @@
 # Sample
-Initial Description and Link:
+Initial Description and Link: 
+* Demonstrate how to flip ggplot axes
+* https://github.com/acatlin/FALL2021TIDYVERSE/blob/main/ggplot_forcats.rmd
 
 Revision/Addition Description and Link:
 
