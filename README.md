@@ -4,6 +4,8 @@ Initial Description and Link:
 * https://github.com/acatlin/FALL2021TIDYVERSE/blob/main/ggplot_forcats.rmd
 
 Revision/Addition Description and Link:
+* Modified ggplot/forcats example to demonstrate sorting, other category
+* https://github.com/acatlin/FALL2021TIDYVERSE/blob/main/ggplot_forcats.rmd
 
 
 # Alan N
